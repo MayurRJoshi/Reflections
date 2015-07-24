@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 Git directory is created,makes the repository fit for future commits
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Temporary holding area for file/files bundles ready to be committed
+Multiple snapshots of the same working directory each with its own files
