@@ -14,3 +14,7 @@ Parent of each commit can be seen,unreachable commits identified
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Combines the changes made by each branch into one branch with no conflicts
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pro : Faster
+Con : May cause bugs? Conflicts need to be resolved manually
